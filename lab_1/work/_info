@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Exnorgate
+Z0 w1580406697
+Z1 dC:/Users/Theo Zinner/Documents/COMP4300/assignment_1
+Z2 8C:/Users/Theo Zinner/Documents/COMP4300/assignment_1/xnor.vhd
+Z3 FC:/Users/Theo Zinner/Documents/COMP4300/assignment_1/xnor.vhd
+l0
+L2
+V><?ifDIUWNJhZK6:4[[zQ3
+!s100 MLi9mebZY?4XON0ANbL4a3
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1582044049
+!i10b 1
+Z6 !s108 1582044049.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/assignment_1/xnor.vhd|
+Z8 !s107 C:/Users/Theo Zinner/Documents/COMP4300/assignment_1/xnor.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Abehaviour1
+Z11 DEx4 work 8 xnorgate 0 22 ><?ifDIUWNJhZK6:4[[zQ3
+l10
+L9
+Z12 VL2O;2Q>F]I8P7hJAfS;>d0
+Z13 !s100 PaIlR_2?4feA9@_bTCzYO3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10

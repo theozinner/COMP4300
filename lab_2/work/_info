@@ -1,0 +1,108 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Theo Zinner/Documents/COMP4300/assignment_1
+Ealu
+Z0 w1582247094
+Z1 DPx4 work 9 dlx_types 0 22 N;][EXI4VdHCK129TNO5`0
+Z2 DPx4 work 13 bv_arithmetic 0 22 ;=2SeGQPb=ziI`4efIfkn0
+Z3 dC:/Users/Theo Zinner/Documents/COMP4300/lab_2
+Z4 8C:/Users/Theo Zinner/Documents/COMP4300/lab_2/alu.vhd
+Z5 FC:/Users/Theo Zinner/Documents/COMP4300/lab_2/alu.vhd
+l0
+L4
+VFAX>kd0S2_jHcbBAkSZSE2
+!s100 GP=`6FALeA2Z2S_QXSiFn2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1582249556
+!i10b 1
+Z8 !s108 1582249556.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_2/alu.vhd|
+Z10 !s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_2/alu.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehaviour1
+R1
+R2
+Z13 DEx4 work 3 alu 0 22 FAX>kd0S2_jHcbBAkSZSE2
+l11
+L10
+Z14 V2jkMXU8iYZMc1e]oVVV=l3
+Z15 !s100 hQU2QAiajJL0I344FQ=?c3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Pbv_arithmetic
+w1582044351
+R3
+8C:/Users/Theo Zinner/Documents/COMP4300/lab_2/bva.vhd
+FC:/Users/Theo Zinner/Documents/COMP4300/lab_2/bva.vhd
+l0
+L15
+V;=2SeGQPb=ziI`4efIfkn0
+!s100 DK;Y`J0lJAh`j:XUgQ7B<1
+R6
+32
+b1
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_2/bva.vhd|
+!s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_2/bva.vhd|
+!i113 1
+R11
+R12
+Bbody
+R2
+w1582044343
+8C:/Users/Theo Zinner/Documents/COMP4300/lab_2/bva-b.vhd
+FC:/Users/Theo Zinner/Documents/COMP4300/lab_2/bva-b.vhd
+l0
+L1
+VLPF@=`8X>]9I@:nc^2mYE3
+!s100 ;^d^hPQojBY3:39_Lf`ZP1
+R6
+32
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_2/bva-b.vhd|
+!s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_2/bva-b.vhd|
+!i113 1
+R11
+R12
+nbody
+Pdlx_types
+w1582044487
+R3
+8C:/Users/Theo Zinner/Documents/COMP4300/lab_2/dlx-types.vhd
+FC:/Users/Theo Zinner/Documents/COMP4300/lab_2/dlx-types.vhd
+l0
+L2
+VN;][EXI4VdHCK129TNO5`0
+!s100 E2c;:eYf;hh[jFU?F_ci41
+R6
+32
+R7
+!i10b 1
+!s108 1582249555.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_2/dlx-types.vhd|
+!s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_2/dlx-types.vhd|
+!i113 1
+R11
+R12

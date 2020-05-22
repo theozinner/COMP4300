@@ -1,0 +1,7 @@
+{C:/Users/Theo Zinner/Documents/COMP4300/assignment_1/xnor.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Theo Zinner/Documents/COMP4300/assignment_1/xnor.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity xnorGate
+-- Compiling architecture behaviour1 of xnorGate
+
+} {} {}}

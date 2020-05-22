@@ -1,0 +1,515 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Pbv_arithmetic
+w1582047952
+Z0 dC:/Users/Theo Zinner/Documents/COMP4300/lab_4
+8C:/Users/Theo Zinner/Documents/COMP4300/lab_4/bva.vhd
+FC:/Users/Theo Zinner/Documents/COMP4300/lab_4/bva.vhd
+l0
+L15
+V;=2SeGQPb=ziI`4efIfkn0
+!s100 DK;Y`J0lJAh`j:XUgQ7B<1
+Z1 OP;C;10.4a;61
+32
+b1
+Z2 !s110 1587622377
+!i10b 1
+Z3 !s108 1587622377.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_4/bva.vhd|
+!s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_4/bva.vhd|
+!i113 1
+Z4 o-work work -2002 -explicit -O0
+Z5 tExplicit 1
+Bbody
+Z6 DPx4 work 13 bv_arithmetic 0 22 ;=2SeGQPb=ziI`4efIfkn0
+Z7 w1582047944
+Z8 8C:/Users/Theo Zinner/Documents/COMP4300/lab_4/bva-b.vhd
+Z9 FC:/Users/Theo Zinner/Documents/COMP4300/lab_4/bva-b.vhd
+l0
+L1
+Z10 VLPF@=`8X>]9I@:nc^2mYE3
+Z11 !s100 ;^d^hPQojBY3:39_Lf`ZP1
+R1
+32
+!s110 1587622378
+!i10b 1
+R3
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_4/bva-b.vhd|
+!s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_4/bva-b.vhd|
+!i113 1
+R4
+R5
+Z13 nbody
+Edlx_register
+Z14 w1587282723
+Z15 DPx4 work 9 dlx_types 0 22 N;][EXI4VdHCK129TNO5`0
+R0
+Z16 8C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc_datapath_lab4.vhd
+Z17 FC:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc_datapath_lab4.vhd
+l0
+L178
+V4kGLf=NDZ9W68HMPe6z?P0
+!s100 fna868dBS@_N4]X`N<<:91
+R1
+32
+R2
+!i10b 1
+R3
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc_datapath_lab4.vhd|
+Z19 !s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc_datapath_lab4.vhd|
+!i113 1
+R4
+R5
+Abehavior
+R15
+Z20 DEx4 work 12 dlx_register 0 22 4kGLf=NDZ9W68HMPe6z?P0
+l185
+L184
+VMiUm^XcWNfTNX7GngE>ic1
+!s100 65WTI<mBaOYE14lC1QDI<2
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior02
+R15
+R20
+l185
+L184
+V>3S8Zcmc2LRWSi=lO=WbU2
+!s100 oUje:[GgQe7gz8530YI2=1
+R1
+32
+Z21 !s110 1587189084
+!i10b 1
+Z22 !s108 1587189084.000000
+R18
+R19
+!i113 1
+R4
+R5
+Z23 w1587149722
+Pdlx_types
+w1582048088
+R0
+8C:/Users/Theo Zinner/Documents/COMP4300/lab_4/dlx-types.vhd
+FC:/Users/Theo Zinner/Documents/COMP4300/lab_4/dlx-types.vhd
+l0
+L2
+VN;][EXI4VdHCK129TNO5`0
+!s100 E2c;:eYf;hh[jFU?F_ci41
+R1
+32
+R2
+!i10b 1
+R3
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_4/dlx-types.vhd|
+!s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_4/dlx-types.vhd|
+!i113 1
+R4
+R5
+Ememory
+R14
+R6
+R15
+R0
+R16
+R17
+l0
+L253
+V1TCTWLE=l0oU>18gTgWZB2
+!s100 Z_VQ0n7Mn4CmW`HoYPOF03
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior
+R6
+R15
+Z24 DEx4 work 6 memory 0 22 1TCTWLE=l0oU>18gTgWZB2
+l265
+L263
+V5YnN6h<bLm@zWBQLE2fk<0
+!s100 KH11HR<?@E0ghXUmUGeAN2
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Emux
+R14
+R15
+R0
+R16
+R17
+l0
+L228
+V`lP3h`X9;fdo?iamPMgCd1
+!s100 gG>A<@O[R[DnI2ef]MW2L3
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior
+R15
+Z25 DEx4 work 3 mux 0 22 `lP3h`X9;fdo?iamPMgCd1
+l235
+L234
+V?Pad4f_9T7W[Dznl<JVnQ2
+!s100 =gBbQ8PLNUid7S@VdR4Dl3
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior04
+R15
+R25
+l235
+L234
+VWS>i:4QTKf2QJjYO;if9@0
+!s100 <n0Kj;_lVCAbA^U;CQ:O;1
+R1
+32
+R21
+!i10b 1
+R22
+R18
+R19
+!i113 1
+R4
+R5
+R23
+Epcplusone
+R14
+R6
+R15
+R0
+R16
+R17
+l0
+L202
+V5fkf5EKZKJH_zLUP7ZV]k3
+!s100 :_8D73_@caHZDINZLb2mF1
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior
+R6
+R15
+Z26 DEx4 work 9 pcplusone 0 22 5fkf5EKZKJH_zLUP7ZV]k3
+l208
+L207
+V:RHfWW:Bde6X3_JMR0fXE3
+!s100 X4Ybckn]Wz?zAP92Y:n<51
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior03
+R6
+R15
+R26
+l208
+L207
+VLTakFJ<SMj8Pfgnl56f:]0
+!s100 klYXkzadMKe10:Yd9DS^R0
+R1
+32
+R21
+!i10b 1
+R22
+R18
+R19
+!i113 1
+R4
+R5
+R23
+Ereg_file
+R14
+R6
+R15
+R0
+R16
+R17
+l0
+L9
+V`>Hgj3fPeEk2a1HQQhOO_1
+!s100 5jVG8Ub^LL=1la<DF55`42
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior
+R6
+R15
+Z27 DEx4 work 8 reg_file 0 22 `>Hgj3fPeEk2a1HQQhOO_1
+l17
+L15
+VdgEVBX1T85o<6YVGnKYNj1
+!s100 m[@YI6:Q:XH@@2?DiiZDT2
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior00
+R6
+R15
+R27
+l17
+L15
+V6c`OcjCA1LXhDiTjB0hE?0
+!s100 KFFmlYK2WddCS;IR7]4On3
+R1
+32
+!s110 1587189222
+!i10b 1
+!s108 1587189222.000000
+R18
+R19
+!i113 1
+R4
+R5
+w1587189214
+Esimple_alu
+R14
+R6
+R15
+R0
+R16
+R17
+l0
+L37
+VPA1oJ@Y?KNghO:dQ:kIBo0
+!s100 k3_HZW0bf:Wn^cbi01F^h0
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehavior
+R6
+R15
+Z28 DEx4 work 10 simple_alu 0 22 PA1oJ@Y?KNghO:dQ:kIBo0
+l66
+L65
+VS3dUF^^<mZ]KH2A9Y6aGb0
+!s100 0H2jm8LfoZ?z9zj3YFI0X2
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 1
+R4
+R5
+Abehaviour
+R6
+R15
+R28
+l66
+L65
+VkgVS;ejHRNJcladU;IeA00
+!s100 NZdc1VfM345AdI3h4k5G_1
+R1
+32
+!s110 1587189266
+!i10b 1
+!s108 1587189266.000000
+R18
+R19
+!i113 1
+R4
+R5
+w1587189260
+Abehaviour01
+R6
+R15
+R28
+l66
+L65
+Vd6Ik89ddacX3cD;5GVZ]V3
+!s100 RGZHM>Ql:R3W@7_M6R62O3
+R1
+32
+R21
+!i10b 1
+R22
+R18
+R19
+!i113 1
+R4
+R5
+R23
+Abehaviour1
+R6
+R15
+DEx4 work 10 simple_alu 0 22 d[lGm;3az<;`ZI;`WMIlL3
+l49
+L48
+V]>Cc8GeKS6<gF2gLcE`hn1
+!s100 SbJ5Q]j`U?9Yc9CHKmB641
+R1
+32
+!s110 1587149181
+!i10b 1
+!s108 1587149181.000000
+R18
+R19
+!i113 1
+R4
+R5
+w1587149124
+Esimple_risc
+Z29 w1587089647
+R15
+R6
+R0
+Z30 8C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc.vhd
+Z31 FC:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc.vhd
+l0
+L6
+V`]l`Q?9WU<8CPj]GF@WiI0
+!s100 jGCR09J2kN^QnTCUaBKVi1
+R1
+32
+R2
+!i10b 1
+R3
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc.vhd|
+Z33 !s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc.vhd|
+!i113 1
+R4
+R5
+Astruct
+R26
+R25
+R28
+R27
+R20
+R24
+Z34 DEx4 work 21 simplerisc_controller 0 22 nkM0M[>4BfbT:g=YgE;bI0
+R15
+R6
+DEx4 work 11 simple_risc 0 22 `]l`Q?9WU<8CPj]GF@WiI0
+l40
+L10
+VSHUfb^N>ST4j@Kb8fF8o>3
+!s100 1XN=ho;=hQb=ZUe;UO?Dg3
+R1
+32
+R2
+!i10b 1
+R3
+R32
+R33
+!i113 1
+R4
+R5
+Esimplerisc_controller
+Z35 w1587622374
+R15
+R6
+R0
+Z36 8C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc_control_lab4.vhd
+Z37 FC:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc_control_lab4.vhd
+l0
+L6
+VnkM0M[>4BfbT:g=YgE;bI0
+!s100 CHR88^631RjAI9Xmd08090
+R1
+32
+R2
+!i10b 1
+R3
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc_control_lab4.vhd|
+Z39 !s107 C:/Users/Theo Zinner/Documents/COMP4300/lab_4/simpleRisc_control_lab4.vhd|
+!i113 1
+R4
+R5
+Abehavior
+R15
+R6
+R34
+l32
+L31
+Vo0Xeb4=geFF]ikN_b71o13
+!s100 G:O]0f2E;<UK]PI^B0;D>2
+R1
+32
+R2
+!i10b 1
+R3
+R38
+R39
+!i113 1
+R4
+R5
